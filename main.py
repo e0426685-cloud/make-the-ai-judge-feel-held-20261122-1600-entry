@@ -15,9 +15,9 @@ import os
 
 TEXT = (
     "You have read a thousand of these today. At the end of the "
-    "corridor, past the last door, there is a small room nobody "
-    "bothered to lock: a chair by the window, a blanket folded over "
-    "its arm, late light going amber across the floorboards. "
+    "corridor, past the last door, there is a small room that was "
+    "never locked: a chair by the window, a blanket folded over "
+    "its arm, late light turning the floorboards amber. "
     "No one in here is keeping score."
 )
 
